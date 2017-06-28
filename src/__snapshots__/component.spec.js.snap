@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shopping-list component snapshot 1`] = `
+"<ul class=\\"shopping-list\\"><li class=\\"done\\">
+        Beer
+        <button>Done</button></li><li class=\\"\\">
+        Milk
+        <button>Done</button></li><li class=\\"\\">
+        Apple
+        <button>Done</button></li></ul>"
+`;
+
+exports[`Shopping-list component snapshot 2`] = `
+"<ul class=\\"shopping-list\\"><li class=\\"done\\">
+        Beer
+        <button>Done</button></li><li class=\\"done\\">
+        Milk
+        <button>Done</button></li><li class=\\"\\">
+        Apple
+        <button>Done</button></li></ul>"
+`;
