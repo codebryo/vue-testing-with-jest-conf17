@@ -20,6 +20,8 @@ will install all dependencies for you. After that you can run all specs like so:
 $ yarn jest
 ```
 
+Be sure to go through the comments in the code examples as they will explain what is going on in all the special places :)
+
 ## Getting started
 
 Getting started with Jest is quite easy, so please check out the code snippets. Keep in mind though, the aim of this talk was an introductory one to testing and Jest it self and how to get started on your project.
