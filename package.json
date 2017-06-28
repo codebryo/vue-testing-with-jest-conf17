@@ -1,0 +1,18 @@
+{
+  "name": "vue-testing-with-jest-conf17",
+  "description": "This Repo follows my talk from the first Vue Conf in 2017. You'll find the Slides and all code examples in here. I tried to split them up in seperate files so they are quite followable.",
+  "author": "Roman Kuba <roman.kuba@gmail.com> (https://twitter.com/Codebryo)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-jest": "^20.0.3",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^20.0.4",
+    "uuid": "^3.0.1",
+    "vue": "^2.3.4",
+    "vuex": "^2.3.1"
+  }
+}
