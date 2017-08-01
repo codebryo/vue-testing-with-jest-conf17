@@ -6,6 +6,9 @@ This Repo follows my talk from the first Vue Conf in 2017.
 You'll find the Slides and all code examples in here.
 I tried to split them up in seperate files so they are quite followable.
 
+The talk is online and can be watched here:
+https://www.youtube.com/watch?v=pqp0PsPBO_0
+
 ## Run Specs Locally
 
 In case you want to see all the specs running, clone or download the repository and open it in your terminal.
